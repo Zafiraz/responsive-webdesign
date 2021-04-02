@@ -56,3 +56,23 @@ table {
 .post {
 	background-color: rgba(255, 0, 0, .3);
 }
+/* ==== BASE STYLES ==== */
+
+body {
+  font-family: Merriweather, 'Times New Roman', serif;
+  font-size: 18px;
+  line-height: 32px;
+  font color:  #333;
+}
+
+h1,
+h2 {
+  font-family: 'Fira Sans', Arial, sans-serif;
+}
+h1 {
+  font-size: 28.8px;
+}
+h2 {
+  font-size: 25.6px;
+  font color: #e5127d;
+}
